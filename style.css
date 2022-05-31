@@ -1,0 +1,52 @@
+.heading
+{
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+  box-shadow:5px 5px 5px grey;
+}
+.heading_div
+{
+  float: none;
+  padding:10px;
+  color: red;
+ 
+}
+.heading_div2
+{
+  font-size: 18px ;
+  color: black;
+}
+.result_para_tag
+{
+
+  box-shadow:5px 5px 5px grey;
+  font-size: 20px;
+}
+.result_para_tag span{
+  white-space: pre-line;
+}
+.copy_right_footer{
+ position: fixed;
+ bottom: 0;
+ width: 100%;
+ color: rgb(255, 0, 0);
+ background-color: rgb(178, 178, 178);
+ text-align: center;
+ color: rgb(41, 41, 41);
+}
+canvas{
+ box-shadow: 5px 5px 5px grey;
+ border: 5px solid white;
+ margin-top: 160px;
+border-radius: 20px;
+}
+.test_image_and_result{
+  float: none;
+  background:50PX gray; 
+  padding:10px;
+  border-radius: 20px; 
+  color: white;
+  box-shadow:5px 5px 5px grey;
+  
+}
